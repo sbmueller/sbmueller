@@ -4,11 +4,11 @@ I'm a **software engineer** for **autonomous driving** at [ZF Group](https://www
 
 By training, I have a M.Sc. degree in Electrical Engineering and Information Techonology from
 [Karlsruhe Institute of Technology](https://www.kit.edu/) 🎓. I did a lot of Software Defined
-Radio during my master's 📡 and have a strong affection for the [GNU Radio](https://www.gnuradio.org/) open-source project.
+Radio during my master's 📡 and have a strong affection for the [GNU Radio](https://github.com/gnuradio/gnuradio) open-source project.
 
 ## My Interests
 ### Technologies
-- 🛠 I'm passionate about **modern @C++](https://github.com/isocpp)** development
+- 🛠 I'm passionate about **modern [C++](https://github.com/isocpp)** development
 - 🐍 I love **[Python 3](https://github.com/python)** since you can write stunning applications in minutes, great for prototyping
 - 🦀 I'm super excited about **[rust-lang](https://github.com/rust-lang)** and am learning it during some excersises at home
 - ❌ I'm *not* a web dev or java dev!
