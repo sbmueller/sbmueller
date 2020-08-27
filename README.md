@@ -30,8 +30,7 @@ ideas are equally heard
 - 🌿 Sustainability is a big concern to me
 
 ## Some GitHub Statistics
-
-![My Stats](https://readme.trnck.dev/api?username=sbmueller)
+![My Stats](https://github-readme-stats.vercel.app/api?username=sbmueller)
 
 ## Get in touch
 [![Twitter](https://img.shields.io/badge/Twitter-sbmuellr-blue?logo=twitter&style=flat)](https://twitter.com/sbmuellr)
