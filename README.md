@@ -8,22 +8,22 @@ Radio during my master's 📡 and have a strong affection for the [GNU Radio](ht
 
 ## My Interests
 ### Technologies
-- 🛠 I'm passionate about **modern C++** development
-- 🐍 I love **@Python 3** since you can write stunning applications in minutes, great for prototyping
-- 🦀 I'm super excited about **@rust-lang** and am learning it during some excersises at home
+- 🛠 I'm passionate about **modern @C++](https://github.com/isocpp)** development
+- 🐍 I love **[Python 3](https://github.com/python)** since you can write stunning applications in minutes, great for prototyping
+- 🦀 I'm super excited about **[rust-lang](https://github.com/rust-lang)** and am learning it during some excersises at home
 - ❌ I'm *not* a web dev or java dev!
 
 ### Environment
-- 🐧 Linux ist the best OS for me to be productive
-- ⌨️  Vim is my IDE of choice (who doesn't first compile their IDE before starting to code, huh?)
-- 🌱 Git, just git
+- 🐧 [Linux](https://github.com/torvalds/linux) ist the best OS for me to be productive
+- ⌨️  [Vim](https://github.com/vim/vim) is my IDE of choice (who doesn't first compile their IDE before starting to code, huh?)
+- 🌱 [Git](https://github.com/git/git), just git
 
 ### Culture
 - 🎢 I like a startup like environment with low hierachies and efficient processes, where all
 ideas are equally heard
-- 👨‍👩‍👧‍👦 I am member of an **agile SCRUM** team and don't want to miss it anymore
+- 👨‍👩‍👧‍👦 I am member of an **agile [SCRUM](https://www.scrum.org/)** team and don't want to miss it anymore
 - 🏖 I am all for a healthy work-life-balance (no work on weekends, no permanent overtime)!
-- 💯Focus on clean code and best practices
+- 💯Focus on [clean code](https://www.goodreads.com/book/show/3735293-clean-code) and best practices
 
 ### Personal
 - 🚴 I'm a hobby triathlete and train almost every day on the bike, running, in the pool or lifting weights
