@@ -1,5 +1,5 @@
 # I'm Sebastian, nice to meet you!
-
+![header](https://raw.githubusercontent.com/sbmueller/sbmueller/master/readme_header.png)
 I'm a **software engineer** for **autonomous driving** at [ZF Group](https://www.zf.com/) in Friedrichshafen.
 
 By training, I have a M.Sc. degree in Electrical Engineering and Information Techonology from
