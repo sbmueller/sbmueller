@@ -23,7 +23,8 @@ Radio during my master's 📡 and have a strong affection for the [GNU Radio](ht
 ideas are equally heard
 - 👨‍👩‍👧‍👦 I am member of an **agile [SCRUM](https://www.scrum.org/)** team and don't want to miss it anymore
 - 🏖 I am all for a healthy work-life-balance (no work on weekends, no permanent overtime)!
-- 💯Focus on [clean code](https://www.goodreads.com/book/show/3735293-clean-code) and best practices
+- 💯 Focus on [clean code](https://www.goodreads.com/book/show/3735293-clean-code) and best practices
+- 🛣 Favor paying down technical debt and improving daily work over feature development
 
 ### Personal
 - 🚴 I'm a hobby triathlete and train almost every day on the bike, running, in the pool or lifting weights
