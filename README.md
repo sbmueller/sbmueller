@@ -1,7 +1,8 @@
 # I'm Sebastian, nice to meet you!
 
 ![header](https://raw.githubusercontent.com/sbmueller/sbmueller/master/readme_header.png)
-I'm a **software engineer** for **autonomous driving** at
+
+I'm a **software engineer** for **fundamental C++ libraries** at
 [ZF Group](https://www.zf.com/) in Friedrichshafen.
 
 By training, I have a M.Sc. degree in Electrical Engineering and Information
@@ -23,25 +24,26 @@ shifted to contribute making autonomous vehicles become a reality 🤖.
 
 ### Environment
 
-- 🐧 [Linux](https://github.com/torvalds/linux) is the best OS for me to be
-  productive
+- 🐧 A [Unix](https://github.com/torvalds/linux) based OS is the best for me to
+  be productive
 - ⌨️ [Neovim](https://github.com/neovim/neovim) is my IDE of choice (who doesn't
   first compile their IDE before starting to code, huh?)
 - 🌱 [Git](https://github.com/git/git), just git
 
 ### Culture
 
-- 🎢 I like a startup like environment with low hierarchies and efficient
-  processes, where all ideas are equally heard
-- 👨‍👩‍👧‍👦 I am member of an **agile
-  [SCRUM](https://www.scrum.org/)** team and don't want to miss it anymore
-- 🏖 I am all for a healthy work-life-balance (no work on weekends, no
+- 🎢 I like a startup like environment with low hierarchies and lean
+  processes
+- 👨‍👩‍👧‍👦 I am member of an **agile** software team
+- 🏖 I am all for a healthy **work-life-balance** (no work on weekends, no
   permanent overtime)!
 - 💯 Focus on [clean
   code](https://www.goodreads.com/book/show/3735293-clean-code) and best
   practices
 - 🛣 Favor paying down technical debt and improving daily work over feature
   development
+- 🌍 I'm working 100% remotely and choose my location independent of my employer's
+  offices
 
 ### Personal
 
