@@ -51,9 +51,11 @@ shifted to contribute making autonomous vehicles become a reality 🤖.
   the pool or lifting weights
 - 🌿 Sustainability is a big concern to me
 
-## Some GitHub Statistics
+## Some Statistics and Badges
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=sbmueller)
+
+[![@sbmueller's Holopin board](https://holopin.io/api/user/board?user=sbmueller)](https://holopin.io/@sbmueller)
 
 ## Get in touch
 
