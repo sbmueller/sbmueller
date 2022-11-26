@@ -2,8 +2,7 @@
 
 ![header](https://raw.githubusercontent.com/sbmueller/sbmueller/master/readme_header.png)
 
-I'm a **software engineer** for **fundamental C++ libraries** at
-[ZF Group](https://www.zf.com/) in Friedrichshafen.
+I'm a **software engineer** for **fundamental C++ libraries**.
 
 By training, I have a M.Sc. degree in Electrical Engineering and Information
 Techonology from [Karlsruhe Institute of Technology](https://www.kit.edu/) 🎓.
